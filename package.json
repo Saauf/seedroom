@@ -1,0 +1,10 @@
+{
+	"name": "seedroom",
+	"version": "1.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"test": "node --test test/*.test.mjs",
+		"dev": "python3 -m http.server 4174 --bind 127.0.0.1"
+	}
+}
