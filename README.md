@@ -6,7 +6,7 @@ colorTo: yellow
 sdk: static
 app_file: index.html
 fullWidth: true
-short_description: A visual prompt lab you can duplicate. Visitors bring their own Pollen.
+short_description: A duplicable image lab with visitor-owned Pollen.
 tags:
   - image-generation
   - pollinations
